@@ -1,0 +1,17 @@
+{
+  "input_rows": 8,
+  "year_market_keys_unique": true,
+  "missing_values": 0,
+  "source_totals_reconciled": true,
+  "market_shares_sum_to_100_pct": true,
+  "growth_contributions_sum_to_100_pct": true,
+  "csv_sha256": "740ab9a045eaea7bb338026d2e212640f4c593e7b7af2ab7d0d3d2cb254bd9ef",
+  "figure_files": [
+    "01_arrivals_by_market.png",
+    "01_arrivals_by_market.svg",
+    "02_growth_and_contribution.png",
+    "02_growth_and_contribution.svg"
+  ],
+  "numeric_checks": "passed",
+  "visual_review": "not performed by this script"
+}

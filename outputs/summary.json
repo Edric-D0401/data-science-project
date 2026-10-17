@@ -1,0 +1,18 @@
+{
+  "years": [
+    2024,
+    2025
+  ],
+  "unit": "arrival visits",
+  "total_2024": 34928650,
+  "total_2025": 40069360,
+  "total_increase": 5140710,
+  "total_growth_pct": 14.71774603370013,
+  "mainland_growth_contribution_pct": 88.03725555419388,
+  "mainland_share_2024_pct": 70.11843858837945,
+  "mainland_share_2025_pct": 72.41733833532655,
+  "international_growth_pct": 13.717220098444427,
+  "international_share_2024_pct": 6.93726496729762,
+  "international_share_2025_pct": 6.876760696951487,
+  "interpretation": "Descriptive accounting comparison; growth contribution is not a causal effect."
+}

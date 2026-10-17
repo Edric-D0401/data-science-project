@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="518.4pt" viewBox="0 0 864 518.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 518.4 
+L 864 518.4 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 203.04 396.576 
+L 466.08 396.576 
+L 466.08 155.52 
+L 203.04 155.52 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 203.04 396.576 
+L 203.04 155.52 
+" clip-path="url(#pf7139da6d2)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m1dd5c976bb" d="M 0 0 
+L 0 3.5 
+" style="stroke: #183344; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="203.04" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="203.04" y="412.694125" transform="rotate(-0 203.04 412.694125)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 304.209231 396.576 
+L 304.209231 155.52 
+" clip-path="url(#pf7139da6d2)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="304.209231" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="304.209231" y="412.694125" transform="rotate(-0 304.209231 412.694125)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 405.378462 396.576 
+L 405.378462 155.52 
+" clip-path="url(#pf7139da6d2)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="405.378462" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="405.378462" y="412.694125" transform="rotate(-0 405.378462 412.694125)">20%</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="334.56" y="434.788187" transform="rotate(-0 334.56 434.788187)">Change / 2024 market arrivals</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m60b6571687" d="M 0 0 
+L -3.5 0 
+" style="stroke: #183344; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m60b6571687" x="203.04" y="181.044322" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #183344" x="196.04" y="185.603384" transform="rotate(-0 196.04 185.603384)">Chinese mainland</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m60b6571687" x="203.04" y="244.380107" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #183344" x="196.04" y="248.93917" transform="rotate(-0 196.04 248.93917)">Hong Kong SAR</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m60b6571687" x="203.04" y="307.715893" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #183344" x="196.04" y="312.274955" transform="rotate(-0 196.04 312.274955)">International visitors</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m60b6571687" x="203.04" y="371.051678" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #183344" x="196.04" y="375.610741" transform="rotate(-0 196.04 375.610741)">Taiwan region</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 203.04 166.477091 
+L 389.989372 166.477091 
+L 389.989372 195.611552 
+L 203.04 195.611552 
+z
+" clip-path="url(#pf7139da6d2)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 203.04 229.812877 
+L 220.070344 229.812877 
+L 220.070344 258.947338 
+L 203.04 258.947338 
+z
+" clip-path="url(#pf7139da6d2)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 203.04 293.148662 
+L 341.816061 293.148662 
+L 341.816061 322.283123 
+L 203.04 322.283123 
+z
+" clip-path="url(#pf7139da6d2)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 203.04 356.484448 
+L 399.130398 356.484448 
+L 399.130398 385.618909 
+L 203.04 385.618909 
+z
+" clip-path="url(#pf7139da6d2)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 203.04 396.576 
+L 203.04 155.52 
+" style="fill: none; stroke: #8da0ac; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 203.04 396.576 
+L 466.08 396.576 
+" style="fill: none; stroke: #8da0ac; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="396.565372" y="184.079634" transform="rotate(-0 396.565372 184.079634)">18.5%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="226.646344" y="247.41542" transform="rotate(-0 226.646344 247.41542)">1.7%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="348.392061" y="310.751205" transform="rotate(-0 348.392061 310.751205)">13.7%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="405.706398" y="374.086991" transform="rotate(-0 405.706398 374.086991)">19.4%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="203.04" y="133.52" transform="rotate(-0 203.04 133.52)">Growth within each market</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 531.84 396.576 
+L 794.88 396.576 
+L 794.88 155.52 
+L 531.84 155.52 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_11">
+      <path d="M 531.84 396.576 
+L 531.84 155.52 
+" clip-path="url(#p137b669cba)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="531.84" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="531.84" y="412.694125" transform="rotate(-0 531.84 412.694125)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_13">
+      <path d="M 593.297944 396.576 
+L 593.297944 155.52 
+" clip-path="url(#p137b669cba)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="593.297944" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="593.297944" y="412.694125" transform="rotate(-0 593.297944 412.694125)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_15">
+      <path d="M 654.755888 396.576 
+L 654.755888 155.52 
+" clip-path="url(#p137b669cba)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="654.755888" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="654.755888" y="412.694125" transform="rotate(-0 654.755888 412.694125)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_17">
+      <path d="M 716.213832 396.576 
+L 716.213832 155.52 
+" clip-path="url(#p137b669cba)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="716.213832" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="716.213832" y="412.694125" transform="rotate(-0 716.213832 412.694125)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_19">
+      <path d="M 777.671776 396.576 
+L 777.671776 155.52 
+" clip-path="url(#p137b669cba)" style="fill: none; stroke: #e0e6ea; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m1dd5c976bb" x="777.671776" y="396.576" style="fill: #183344; stroke: #183344; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="777.671776" y="412.694125" transform="rotate(-0 777.671776 412.694125)">100%</text>
+     </g>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #183344" x="663.36" y="434.788187" transform="rotate(-0 663.36 434.788187)">Market increase / total increase</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5"/>
+    <g id="ytick_6"/>
+    <g id="ytick_7"/>
+    <g id="ytick_8"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 531.84 166.477091 
+L 748.263549 166.477091 
+L 748.263549 195.611552 
+L 531.84 195.611552 
+z
+" clip-path="url(#p137b669cba)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 531.84 229.812877 
+L 537.619596 229.812877 
+L 537.619596 258.947338 
+L 531.84 258.947338 
+z
+" clip-path="url(#p137b669cba)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 531.84 293.148662 
+L 547.734655 293.148662 
+L 547.734655 322.283123 
+L 531.84 322.283123 
+z
+" clip-path="url(#p137b669cba)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 531.84 356.484448 
+L 539.573976 356.484448 
+L 539.573976 385.618909 
+L 531.84 385.618909 
+z
+" clip-path="url(#p137b669cba)" style="fill: #235a7b"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 531.84 396.576 
+L 794.88 396.576 
+" style="fill: none; stroke: #8da0ac; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="754.839549" y="184.079634" transform="rotate(-0 754.839549 184.079634)">88.0%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="544.195596" y="247.41542" transform="rotate(-0 544.195596 247.41542)">2.4%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="554.310655" y="310.751205" transform="rotate(-0 554.310655 310.751205)">6.5%</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="546.149976" y="374.086991" transform="rotate(-0 546.149976 374.086991)">3.1%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="531.84" y="133.52" transform="rotate(-0 531.84 133.52)">Share of the total increase</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="47.52" y="36.288" transform="rotate(-0 47.52 36.288)">Macao visitor-market growth and contribution</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #183344" x="47.52" y="66.3552" transform="rotate(-0 47.52 66.3552)">Change from 2024 to 2025 | Total increase: 5,140,710 arrival visits (+14.7%)</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4c616e" x="47.52" y="472.7808" transform="rotate(-0 47.52 472.7808)">Panels use different percentage scales and denominators. Contribution is an arithmetic decomposition, not causation.</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4c616e" x="47.52" y="490.9248" transform="rotate(-0 47.52 490.9248)">Source: DSEC via NEWS GOV-MO; 2024 and 2025 annual visitor-arrival releases. Accessed 14 Oct 2026.</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4c616e" x="47.52" y="506.4768" transform="rotate(-0 47.52 506.4768)">Source links and calculation methods: README.md and data/SOURCES.md. Independent educational analysis.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf7139da6d2">
+   <rect x="203.04" y="155.52" width="263.04" height="241.056"/>
+  </clipPath>
+  <clipPath id="p137b669cba">
+   <rect x="531.84" y="155.52" width="263.04" height="241.056"/>
+  </clipPath>
+ </defs>
+</svg>
